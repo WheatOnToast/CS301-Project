@@ -1,1 +1,1 @@
-CS 301 Assignments/Homework
+CS 370 Assignments/Homework
